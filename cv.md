@@ -67,7 +67,7 @@ function persistence(num) {
 ## Project
 
 *Link to source:*
-[GitHub](github.com/00012256/WT-CW2)
+[GitHub](https://github.com/00012256/WT-CW2)
 
 *Link to hosted web app:*
 [Glitch](https://achieved-kaput-wedge.glitch.me/)
