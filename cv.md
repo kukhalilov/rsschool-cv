@@ -74,3 +74,11 @@ function persistence(num) {
 
 Developed a web app with CRUD functionality using HTML, CSS, JavaScript, Nodejs, Pug, and MongoDB
 
+## Education
+
+**Westminster International University in Tashkent** <br /> Business Information Systems <br />(*2020-2024*)
+
+## Languages
+
+- **Uzbek** <br />Level: Native
+- **English** <br />Level: C1 (IELTS 7.5)
