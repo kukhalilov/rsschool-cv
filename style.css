@@ -185,8 +185,11 @@ h2 {
 }
 
 .language h3, .language p {
-    font-style: italic;
     padding: 5px;
+}
+
+.language p {
+    font-style: italic;
 }
 
 footer {
