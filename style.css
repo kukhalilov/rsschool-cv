@@ -185,30 +185,45 @@ h2 {
 }
 
 .language h3, .language p {
-    font-style: italic;
     padding: 5px;
 }
 
-.contacts {
+.language p {
+    font-style: italic;
+}
+
+footer {
     background-color: var(--blue);
+}
+
+.contacts {
+    padding-top: 30px;
+}
+
+.contacts, .footer-bottom {
     color: #fff;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     gap: 50px;
-    padding: 30px;
+    padding-bottom: 30px;
 }
 
-.contacts img {
+.footer-bottom img {
     width: 100px;
 }
 
-.contacts li {
+.contacts li, .footer-bottom li {
     list-style: none;
 }
 
-.contacts a {
+.contacts a, .footer-bottom a {
     color: #fff;
     text-decoration: none;
+}
+
+.contacts i:hover {
+    color: aqua;
+    transform: scale(1.2);
 }
